@@ -119,5 +119,4 @@ function resumenVentas() {
     console.log(`Producto más vendido: ${productoMasVendido} (${cantidadVendida} unidades)\n`);
 }
 
-
 menu();

@@ -39,5 +39,6 @@ function elevarAlCuadrado(numeros) {
     return cuadrados;
 }
 
+
 //module.exports nos sirve para exportar las funciones cuando usemos require('./operaciones')
 module.exports = {sumar, multiplicar, dividir, elevarAlCuadrado};

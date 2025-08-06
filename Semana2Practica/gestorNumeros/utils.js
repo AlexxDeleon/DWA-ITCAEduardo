@@ -6,4 +6,4 @@ function mostrarNumeros(numeros) {
     }
 }
 
-module.exports = { mostrarNumeros };
+module.exports = {mostrarNumeros};

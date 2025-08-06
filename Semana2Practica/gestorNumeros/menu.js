@@ -1,5 +1,4 @@
 const prompt = require('prompt-sync')();
-
 function mostrarMenu() {
     console.log('----- GESTOR DE NÚMEROS -----');
     console.log('1. Agregar números');

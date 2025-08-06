@@ -1,4 +1,3 @@
-
 const prompt = require('prompt-sync')();
 
 //Esto nos sirve para importar los diferentes archivos segun lo que vimos en el video de la clase 
